@@ -44,11 +44,11 @@ if (yes)
     }
 
 
-    KANKAN := "https://www.youtube.com/watch?v=8c6AJMIm310"
+    DTHANG := "https://www.youtube.com/watch?v=8c6AJMIm310"
 
-    if (config.Tsurugi.Misc.KANKAN)
+    if (config.Tsurugi.Misc.DTHANG)
     {
-        ;Run, %KANKAN%
+        ;Run, %DTHANG%
     }
 
     
