@@ -24,7 +24,7 @@ AimbotKey := config.Tsurugi.Binds.Keybind
 ; aimbot
 
 ;SoundPlay, C:\Users\blynq\Downloads\loooolwtf.mp3
-MsgBox, Tsurugi - Authorized & Loaded
+MsgBox, aspect
 
 
 yes := true
