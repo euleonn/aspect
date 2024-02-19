@@ -30,7 +30,8 @@
             "AimbotUpdateTick": 600,
             "AimbotUpdateMS": 1000,
             "CameraToGunFOV": 85,
-            "FlickTime" : 2
+            "FlickTime" : 2,
+            "DTHANG" : true
         },
         "FOV": {
             "FOVOffsetX": 5,
